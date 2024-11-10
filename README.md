@@ -1,5 +1,5 @@
 
-# LLM-Enhanced Chatbot with Retrieval-Augmented Generation (RAG)
+# LLM-Enhanced Chatbot with Retrieval-Augmented Generation (RAG) for Assisting University at Buffalo Students, for the Department of Computer Science
 
 This project implements a **chatbot application** powered by a **Large Language Model (LLM)** using **Retrieval-Augmented Generation (RAG)**. The chatbot provides intelligent answers based on content from the **University at Buffalo Computer Science and Engineering** webpage and its subpages. The project leverages LangChain, FAISS for vector storage, OpenAI embeddings, and Streamlit for the user interface.
 
